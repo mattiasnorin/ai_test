@@ -1,7 +1,7 @@
 // pages/LoginPage.ts
 import { Page, Locator } from '@playwright/test';
 
-export class LoginPage {
+export class loginPage {
     private page: Page;
     private usernameInput: Locator;
     private passwordInput: Locator;
