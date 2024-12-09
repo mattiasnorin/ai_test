@@ -16,6 +16,8 @@ test('should make a purchase', async ({ page }: { page: Page }) => {
     await login(page, config.username, config.password);
     await verifyLoggedIn(page);
 
+
+
     // Navigate to store and make a purchase
     await page.getByTestId('select-product').selectOption('1');
   await page.getByLabel('Amount').fill('1');
