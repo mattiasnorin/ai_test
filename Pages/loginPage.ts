@@ -1,7 +1,7 @@
 // pages/LoginPage.ts
 import { Page, Locator } from '@playwright/test';
 
-export class loginPage {
+export class LoginPage {
     private page: Page;
     private usernameInput: Locator;
     private passwordInput: Locator;
@@ -28,5 +28,6 @@ export class loginPage {
         await this.chooseUser.selectOption("Consumer")
         await this.loginButton.waitFor({ state: 'visible' });
         await this.loginButton.click();
+        await this.page.waitForURL('https://hoff.is/store2/?username=testuser&role=consumer');
     }
 }

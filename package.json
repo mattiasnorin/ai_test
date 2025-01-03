@@ -12,7 +12,7 @@
   "description": "",
   "dependencies": {
     "@axe-core/playwright": "^4.10.1",
-    "@playwright/test": "^1.49.0",
+    "@playwright/test": "^1.49.1",
     "@types/node": "^22.10.1",
     "axe-playwright": "^2.0.3",
     "typescript": "^5.7.2"

@@ -3,8 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\LoginPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\LoginPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\src\\playwright.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\playwright.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\accessibility.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\accessibility.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\api.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\api.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\purchase.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\purchase.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\login.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:tests\\login.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\webShopPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\webShopPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\loginPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:pages\\loginPage.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,26 +53,92 @@
               "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "playwright.config.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\src\\playwright.config.ts",
+              "RelativeDocumentMoniker": "src\\playwright.config.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\src\\playwright.config.ts",
+              "RelativeToolTip": "src\\playwright.config.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:45:24.41Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "accessibility.spec.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\accessibility.spec.ts",
+              "RelativeDocumentMoniker": "tests\\accessibility.spec.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\accessibility.spec.ts",
+              "RelativeToolTip": "tests\\accessibility.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:07:25.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "api.spec.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\api.spec.ts",
+              "RelativeDocumentMoniker": "tests\\api.spec.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\api.spec.ts",
+              "RelativeToolTip": "tests\\api.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:07:10.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "purchase.spec.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\purchase.spec.ts",
+              "RelativeDocumentMoniker": "tests\\purchase.spec.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\purchase.spec.ts",
+              "RelativeToolTip": "tests\\purchase.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T11:06:58.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "webShopPage.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\webShopPage.ts",
+              "RelativeDocumentMoniker": "pages\\webShopPage.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\webShopPage.ts",
+              "RelativeToolTip": "pages\\webShopPage.ts",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T10:57:44.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "login.spec.ts",
+              "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\login.spec.ts",
+              "RelativeDocumentMoniker": "tests\\login.spec.ts",
+              "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\tests\\login.spec.ts",
+              "RelativeToolTip": "tests\\login.spec.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-01-03T10:18:11.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "loginPage.ts",
               "DocumentMoniker": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\loginPage.ts",
               "RelativeDocumentMoniker": "pages\\loginPage.ts",
               "ToolTip": "C:\\Users\\39155\\source\\repos\\Training\\ai_test\\pages\\loginPage.ts",
               "RelativeToolTip": "pages\\loginPage.ts",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
               "WhenOpened": "2024-12-09T21:52:04.681Z",
               "EditorCaption": ""
